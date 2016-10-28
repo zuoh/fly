@@ -61,6 +61,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				LinkIncremental="2"
+				AdditionalLibraryDirectories=""
 				GenerateDebugInformation="true"
 				SubSystem="1"
 				TargetMachine="1"
@@ -175,10 +176,6 @@
 				>
 			</File>
 			<File
-				RelativePath=".\AlgorithmTest.cpp"
-				>
-			</File>
-			<File
 				RelativePath="..\..\..\..\..\src\algorithm_test\main.cpp"
 				>
 			</File>
@@ -210,10 +207,6 @@
 			>
 			<File
 				RelativePath="..\..\..\..\..\src\algorithm_test\AlgorithmTest.h"
-				>
-			</File>
-			<File
-				RelativePath=".\AlgorithmTest.h"
 				>
 			</File>
 			<File
